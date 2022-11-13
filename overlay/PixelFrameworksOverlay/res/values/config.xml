@@ -217,4 +217,9 @@
         See android.service.rotationresolver.RotationResolverService.
     -->
     <string name="config_defaultRotationResolverService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiRotationResolverService</string>
+
+    <string name="config_bodyFontFamily" translatable="false">google-sans</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">google-sans-medium</string>
+    <string name="config_headlineFontFamily" translatable="false">google-sans</string>
+    <string name="config_headlineFontFamilyMedium" translatable="false">google-sans-medium</string>
 </resources>
